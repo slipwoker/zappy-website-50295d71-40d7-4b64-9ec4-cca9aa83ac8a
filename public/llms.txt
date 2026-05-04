@@ -1,0 +1,63 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+קולקציית התכשיטים של Luma מביאה לך עיצובים עוצרי נשימה שמשלבים אלגנטיות ויופי נצחי. תכשיטים יוקרתיים לנשים שאוהבות להתבלט. גלי את האוסף עכשיו!
+
+### אומנות
+https://example.com/craftsmanship
+מאחורי כל תכשיט של Luma מסתתרת אומנות ידנית מדויקת ותשומת לב לכל פרט. גלי כיצד נוצרים תכשיטים יוקרתיים מהחומרים הטובים ביותר עם מסורת של מצוינות.
+
+### מדריך מתנות
+https://example.com/gift-guide
+מחפשת מתנה שתישאר בלב לנצח? מדריך המתנות של Luma יעזור לך לבחור את התכשיט המושלם לכל אירוע ולכל אישה. תכשיטים יוקרתיים שמרגשים באמת — הזמיני עכשיו!
+
+### אודות
+https://example.com/about
+Luma נולדה מתוך אהבה עמוקה לתכשיטים ולאומנות. גלי את הסיפור שלנו, את הערכים שמנחים אותנו ואת החזון שהפך אותנו למותג תכשיטים מוביל שנשים מכל הארץ מתאהבות בו.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה או רוצה ייעוץ אישי לבחירת תכשיט? צוות Luma כאן בשבילך. צרי קשר עכשיו ונעזור לך למצוא את התכשיט המושלם — כי את מגיעה לטוב ביותר!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Luma
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Luma
+
+### Category
+https://example.com/category/:slug
+מוצרים - Luma
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
